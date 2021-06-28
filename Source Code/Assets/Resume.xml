@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resume>
+    <name>Aina Zuliana binti Zulkefli</name>
+    <mobile>012-8926410</mobile>
+    <email>ainazuliana998@gmail.com</email>
+    <address>Seri Kembangan, Selangor</address>
+    <internname>Telekom Research and Development Sdn Bhd</internname>
+    <internperiod>July 2018 - September 2018</internperiod>
+    <internjob>
+        <scope id="1">Identify the new lexicon</scope>
+        <scope id="2">Normalize data in the Lexicon Editor</scope>
+        <scope id="3">Table rules for sub-category</scope>
+        <scope id="4">Manual Tagging</scope>
+    </internjob>
+    <edu>Universiti Teknologi MARA (UiTM), Kampus Jasin, Melaka</edu>
+    <status>Bachelor of Computer Science (Hons)</status>
+    <period>February 2019 - Current</period>
+    <cgpa>Current CGPA: 3.31</cgpa>
+    <edu1>Universiti Teknologi MARA (UiTM), Arau, Perlis</edu1>
+    <status1>Diploma of Computer Science</status1>
+    <period1>June 2016 - January 2019</period1>
+    <cgpa1>CGPA: 3.52</cgpa1>
+    <language>
+        <lang id="1">Malay</lang>
+        <lang id="2">English</lang>
+        <lang id="3">Korean</lang>
+        <lang id="4">Arabic</lang>
+    </language>
+    <complang>
+        <complangs id="1">Python</complangs>
+        <complangs id="2">C++</complangs>
+        <complangs id="3">Java</complangs>
+        <complangs id="4">PHP</complangs>
+        <complangs id="5">JavaScript</complangs>
+        <complangs id="6">Prolog</complangs>
+        <complangs id="7">Scheme</complangs>
+        <complangs id="8">HTML</complangs>
+        <complangs id="9">XML</complangs>
+    </complang>
+    <software>
+        <soft id="1">Adobe Dreamweaver</soft>
+        <soft id="2">Adobe Premiere Pro</soft>
+        <soft id="3">Adobe Photoshop</soft>
+        <soft id="4">Audacity</soft>
+        <soft id="5">Adobe Animate</soft>
+        <soft id="6">XAMPP</soft>
+        <soft id="7">Anaconda</soft>
+        <soft id="8">Oracle</soft>
+        <soft id="9">Visual Basic</soft>
+        <soft id="10">Microsoft</soft>
+        <soft id="11">Android Studio</soft>
+        <soft id="12">Eclipse</soft>
+        <soft id="13">Blender</soft>
+        <soft id="14">Construct 2</soft>
+        <soft id="15">Notepad++</soft>
+    </software>
+    <hardware>
+        <hard id="1">Laptop</hard>
+        <hard id="2">Router</hard>
+        <hard id="3">Server</hard>
+        <hard id="4">Printer</hard>
+        <hard id="5">Scanner</hard>
+    </hardware>
+    <technology>
+        <tech id="1">Internet</tech>
+        <tech id="2">Mobile Computing</tech>
+    </technology>
+    <sysdev>
+        <proj id="1">Developed a system for PERKIM</proj>
+        <proj id="2">Develop a system for HARIBO travelling agency</proj>
+        <proj id="3">Develop a system for E-Rayuan College</proj>
+        <proj id="4">Develop a Sentiment Analysis system for VOIR brand product review</proj>
+        <proj id="5">Developed an interactive presentation about commercial product</proj>
+        <proj id="6">Making poster for the commercial product and webinar</proj>
+        <proj id="7">Develop a mathematical game for elementary school kids</proj>
+        <proj id="8">VOCMINE (Voice of Customer MINE) during internship</proj>
+        <proj id="9">Prediction of Student Performance based on their Social Media Usage</proj>
+        <proj id="10">Develop a Sentiment Analysis system for VOIR brand product review</proj>
+    </sysdev>
+    <curricular>
+        <act id="1">Participated in Gunung Jerai Expedition 2016</act>
+        <act id="2">A member of COSMIT (Computer Science Society Club)</act>
+        <act id="3">A facilitator in PEERS</act>
+        <act id="4">Competitive Programming and Multimedia Competition 2016</act>
+        <act id="5">Pertandingan Kawad Kaki (PERKAD) 2016</act>
+        <act id="6">Bengkel “Competitive Programming for Beginners” Siri II 2016</act>
+        <act id="7">International-CPROM 2018</act>
+        <act id="8">PC Maintenance Workshop 2019</act>
+        <act id="9">Participated as Committee Members in UiTM JASIN OPEN CHESS 2019</act>
+        <act id="10">EXCO Komunikasi dan Korporat of JPNR (Jawatankuasa Perwakilan Non-Resident) Sesi 2019/2020</act>
+        <act id="11">Certificate in Data Scientist with Python Track in DataCamp</act>
+        <act id="12">Certificate in Data Analyst with Python Track in DataCamp</act>
+    </curricular>
+
+</Resume>
